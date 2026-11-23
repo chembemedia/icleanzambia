@@ -1,0 +1,8 @@
+{
+  "name": "iclean Zm",
+  "description": "Zambian Smart Waste Management platform connecting households, recycling centres, and authorized waste collectors across all 10 provinces.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
